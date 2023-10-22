@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "title": "Godzilla vs. Kong",
+    "description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages thoughts.",
+    "posterURL": "./images/godzilla.jpg",
+    "trailer": "https://youtu.be/odM92ap8_c0",
+    "rating": 8.4
+  },
+  {
+    "id": 1,
+    "title": "Zack Snyder's Justice League",
+    "description": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from are seen and heard by everyone thoughts are seen and.",
+    "posterURL": "./images/justiceLeague.jpg",
+    "trailer": "https://youtu.be/ui37YKQ9AC4",
+    "rating": 8.6
+  },
+  {
+    "id": 2,
+    "title": "Chaos Walking",
+    "description": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone thoughts are seen and.",
+    "posterURL": "./images/chaosWalking.jpg",
+    "trailer": "https://youtu.be/nRf4ZgzHoVw",
+    "rating": 7.5
+  },
+  {
+    "id": 3,
+    "title": "Raya and the Last Dragon",
+    "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned.",
+    "posterURL": "./images/rayaDragon.jpg",
+    "trailer": "https://youtu.be/1VIZ89FEjYI",
+    "rating": 8.3
+  },
+  {
+    "id": 4,
+    "title": "Tom & Jerry",
+    "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel rescue.",
+    "posterURL": "./images/tomJerry.jpg",
+    "trailer": "https://youtu.be/kP9TfCWaQT4",
+    "rating": 7.3
+  },
+  {
+    "id": 5,
+    "title": "Cherry",
+    "description": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world  thoughts his.",
+    "posterURL": "./images/cherry.jpg",
+    "trailer": "https://youtu.be/H5bH6O0bErk",
+    "rating": 7.6
+  },
+  {
+    "id": 6,
+    "title": "Mortal Kombat Legends",
+    "description": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family.",
+    "posterURL": "./images/mortalKomba.jpg",
+    "trailer": "https://youtu.be/I1vccr3yWBU",
+    "rating": 8.4
+  },
+  {
+    "id": 7,
+    "title": "Miraculous World",
+    "description": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too to avenge his family  thoughts are.",
+    "posterURL": "./images/miraculous.jpg",
+    "trailer": "https://youtu.be/TR2qP9P_WVo",
+    "rating": 8.3
+  },
+  {
+    "id": 8,
+    "title": "Bad Boys for Life",
+    "description": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas.",
+    "posterURL": "./images/badBoy.jpg",
+    "trailer": "https://youtu.be/jKCj3XuPG8M",
+    "rating": 7.2
+  },
+  {
+    "id": 9,
+    "title": "Tenet",
+    "description": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "posterURL": "./images/telnet.jpg",
+    "trailer": "https://youtu.be/L3pk_TBkihU",
+    "rating": 7.3
+  },
+  {
+    "id": 10,
+    "title": "Extraction",
+    "description": "Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord rescue the kidnapped son of a Mumbai crime lord rescue the.",
+    "posterURL": "./images/extraction.jpg",
+    "trailer": "https://youtu.be/L6P3nI6VnlY",
+    "rating": 7.4
+  },
+  {
+    "id": 11,
+    "title": "My Hero Academia",
+    "description": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation … until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar.",
+    "posterURL": "./images/mha.jpg",
+    "trailer": "https://youtu.be/iaMLBWj6HjI",
+    "rating": 8.5
+  }
+]
